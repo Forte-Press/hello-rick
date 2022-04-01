@@ -5,7 +5,7 @@ const { PanelBody, SelectControl } = wp.components;
 
 
 /**
- * Add Custom Select to Image Sidebar
+ * Add Rick at random
  */
 const withRick = createHigherOrderComponent( ( BlockEdit ) => {
     return ( props ) => {
